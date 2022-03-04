@@ -1,0 +1,6 @@
+DateTime==4.3
+requests==2.23.0
+responses==0.10.14
+pydantic
+fastapi
+uvicorn
